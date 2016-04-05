@@ -1,0 +1,1 @@
+如果想往hashset中存放对象，该对象必须重写hashcode()和equals()方法；
